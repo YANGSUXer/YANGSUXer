@@ -6,6 +6,8 @@
 AI助力的项目正在进行中！
 
 ## 💼项目
+**✅ [Claude Code插件：btw-saver](https://github.com/YANGxPM/btw-saver)** 
+
 **✅ [AI教练](https://github.com/YANGxPM/My-AI-Coach)**  
   
 **✅ [自然语言转SQL](https://github.com/YANGxPM/NaturalLanguagetoSQL)**  
