@@ -6,7 +6,9 @@
 AI助力的项目正在进行中！
 
 ## 💼项目
-**✅ [Claude Code插件：btw-saver](https://github.com/YANGxPM/btw-saver)** 
+**✅ [Claude Code插件：btw-saver](https://github.com/YANGxPM/btw-saver)**  
+
+**✅ AI可解释性UI组件库**  
 
 **✅ [AI教练](https://github.com/YANGxPM/My-AI-Coach)**  
   
